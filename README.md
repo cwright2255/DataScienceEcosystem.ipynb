@@ -1,4 +1,4 @@
-# DataScienceEcosystem.ipynb
+# notebook-lab
 
 Objective
 In this final assignment, you will:
